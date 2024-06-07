@@ -5,17 +5,8 @@ PHP Native REST API to solve problems:
   - Balanced Bracket
   - Highest Polindrome
 
-## Installation on local machine
-
-PHP Used: 8.2
-
-First, please open terminal and cd to installed directory.
-
-
-    composer install
-
-
-
+## PHP Version 
+PHP 8.2
 
 ## Tests
 
