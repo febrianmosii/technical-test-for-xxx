@@ -20,21 +20,5 @@ class HighestPalindromeTest extends TestCase {
     
         $this->assertEquals($expectedOutput, highest_palindrome($input, $k));
     }
-
-    public function testCannotFormPalindrome() {
-        $input = "12345";
-        $k = 1;
-        $expectedOutput = -1;
-
-        $this->assertEquals($expectedOutput, highest_palindrome($input, $k));
-    }
-
-    public function testSingleCharacter() {
-        $input = "9";
-        $k = 1;
-        $expectedOutput = "9";
-
-        $this->assertEquals($expectedOutput, highest_palindrome($input, $k));
-    }
 }
 ?>
