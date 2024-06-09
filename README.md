@@ -75,3 +75,19 @@ Based on my analysis, the score of complexity of my code is low and ease of main
 - Maintainability 
 
   Based on the low cyclomatic and cognitive complexity, the function should be easy to maintain and understand.
+
+## Screenshots
+
+**Weighted String**
+
+![Weighted Strings](https://github.com/febrianmosii/technical-test-for-xxx/blob/main/docs/ut_weighted_strings.jpg?raw=true)
+
+**Balanced Bracket**
+
+![Balanced Bracket](https://github.com/febrianmosii/technical-test-for-xxx/blob/main/docs/balanced_bracket.jpg?raw=true)
+
+**Highest Palindrome**
+
+![Highest Palindrome](https://github.com/febrianmosii/technical-test-for-xxx/blob/main/docs/highest_palindrome.jpg?raw=true)
+
+
