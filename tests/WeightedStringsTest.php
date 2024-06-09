@@ -2,7 +2,7 @@
 
 use PHPUnit\Framework\TestCase;
 
-require_once 'balanced_bracket.php';
+require_once 'weighted_strings.php';
 
 class WeightedStringsTest extends TestCase {
     public function testWeightedStrings() {

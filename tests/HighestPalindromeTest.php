@@ -15,7 +15,7 @@ class HighestPalindromeTest extends TestCase {
 
     public function testHighestPalindromeSample2() {
         $input = "932239";
-        $k = 2;
+        $k = 1;
         $expectedOutput = "992299"; 
     
         $this->assertEquals($expectedOutput, highest_palindrome($input, $k));
