@@ -84,10 +84,10 @@ Based on my analysis, the score of complexity of my code is low and ease of main
 
 **Balanced Bracket**
 
-![Balanced Bracket](https://github.com/febrianmosii/technical-test-for-xxx/blob/main/docs/balanced_bracket.png?raw=true)
+![Balanced Bracket](https://github.com/febrianmosii/technical-test-for-xxx/blob/main/docs/ut_balanced_bracket.png?raw=true)
 
 **Highest Palindrome**
 
-![Highest Palindrome](https://github.com/febrianmosii/technical-test-for-xxx/blob/main/docs/highest_palindrome.png?raw=true)
+![Highest Palindrome](https://github.com/febrianmosii/technical-test-for-xxx/blob/main/docs/ut_highest_palindrome.png?raw=true)
 
 
